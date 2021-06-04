@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Feb 13 17:59:17 2021
-
-@author: ASUS
-"""
 
 #open files
 import pandas as pd

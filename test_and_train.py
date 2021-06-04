@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 17 21:23:29 2021
-
-@author: ASUS
-"""
 
 #Data processing in python- Test, Train and split 
 #import pandas

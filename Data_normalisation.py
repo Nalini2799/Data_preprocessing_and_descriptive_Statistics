@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 17 19:40:21 2021
-
-@author: ASUS
-"""
-
 #import pandas
 import pandas as pd
 #read csv file using pandas
